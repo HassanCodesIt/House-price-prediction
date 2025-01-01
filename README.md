@@ -38,7 +38,10 @@ This project uses supervised machine learning (linear regression) to predict the
     ```bash
     pip install numpy scikit-learn
     ```
-
+4. Access the colab:
+    ```bash
+    https://colab.research.google.com/drive/15-bhVAQBaI8U5drOaP5NU0pRq6NhPcdP?usp=drive_link
+    ```
 ## Usage
 1. Open the `house_price_prediction.py` file and review the code.
 2. Run the script to train the model and predict house prices:
